@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Title of the app
-st.title("Simple Streamlit App")
+st.title("Interactive Data Visualization with Random Data")
 
 # Add a slider to the app
 slider_value = st.slider("Select a value", 0, 100, 50)
